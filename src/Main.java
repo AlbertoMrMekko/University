@@ -6,5 +6,7 @@ public class Main {
         int y;
         x = 2;
         y = 7;
+        x = x + y;
+        System.out.println(x);
     }
 }
